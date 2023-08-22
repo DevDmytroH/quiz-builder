@@ -2,6 +2,10 @@
 
 This project is a simple form builder built using Angular 15 that allows users to add questions, answer them, and view their answers.
 
+## Demo
+
+![Demo](https://i.ibb.co/ZNDTbhZ/ezgif-com-gif-maker.gif)
+
 ## Installation
 
 To run the project locally, you will need to have Node.js installed on your machine.
